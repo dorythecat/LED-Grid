@@ -8800,7 +8800,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 54.61 37.338 90)
 			(effects
 				(font
@@ -14371,7 +14371,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm_ThermalVias"
 			(at 129.54 22.86 0)
 			(effects
 				(font
@@ -14543,7 +14543,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias"
 			(at 95.25 78.74 0)
 			(effects
 				(font
@@ -15685,7 +15685,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 54.61 30.988 90)
 			(effects
 				(font
@@ -16721,7 +16721,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 149.86 29.718 90)
 			(effects
 				(font
@@ -17481,7 +17481,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 109.22 41.148 90)
 			(effects
 				(font
@@ -19981,7 +19981,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 22.352 97.79 90)
 			(effects
 				(font
@@ -23682,7 +23682,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 109.22 33.528 90)
 			(effects
 				(font
@@ -26544,7 +26544,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_NKK_G1xJP"
+		(property "Footprint" "Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm"
 			(at 77.47 38.1 0)
 			(effects
 				(font
